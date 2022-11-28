@@ -36,7 +36,14 @@ For our reproduced implementation of the [SR-OSDA paper](https://openaccess.thec
 It inspires us the most if you would find our work and code helpful. Please consider giving a star :star: and citation. 
 
 ```
-
+@inproceedings{li2022interpretable,
+  title={Interpretable Open-Set Domain Adaptation via Angular Margin Separation},
+  author={Li, Xinhao and Li, Jingjing and Du, Zhekai and Zhu, Lei and Li, Wen},
+  booktitle={European Conference on Computer Vision},
+  pages={1--18},
+  year={2022},
+  organization={Springer}
+}
 ```
 
 For the SR-OSDA paper, please use the following citation.
